@@ -30,7 +30,7 @@ An e-commerce company needed better visibility into their sales performance acro
 
 ## 📁 Dataset
 The dataset used in this project can be found in the [`dataset`](dataset) folder:
-- **File:** `ecomm-data.xlsx`
+- **File:** `ECOMM DATA.xlsx`
 - Fields include: Sales, Profit, Shipping Cost, Quantity, Category, Country, Market, State, Ship Mode.
 
 ## 🚀 Future Enhancements
