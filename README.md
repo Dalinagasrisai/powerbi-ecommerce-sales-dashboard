@@ -25,7 +25,7 @@ An e-commerce company needed better visibility into their sales performance acro
 - **Data Storytelling** and **Business Intelligence**
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](![E-Commerce_Sales_Dashboard_Powerbi_DaliMethukumilli](https://github.com/user-attachments/assets/58eb9bd5-75ef-4e29-95c3-b1c300b8ceeb)
+![Dashboard Preview](E-Commerce_Sales_Dashboard_Powerbi_DaliMethukumilli.JPG)
 )
 
 ## 📁 Dataset
